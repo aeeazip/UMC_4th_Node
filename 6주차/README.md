@@ -28,6 +28,7 @@ server.listen(port, function(){
     - write(chunk, callback) : 응답 본문 데이터 생성
     - end(data, encoding, callback) : 클라이언트로 응답 전송
 
+<br/>
 
 ### 다른 웹사이트 데이터 가져오기
 - http 모듈을 사용해 다른 웹사이트의 데이터를 가져와서 필요한 곳에 사용할 수 있음
