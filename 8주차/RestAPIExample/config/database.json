@@ -1,7 +1,0 @@
-{
-    "host" : "localhost",
-    "user" : "root",
-    "password" : "codnjs08!",
-    "port" : "3306",
-    "database" : "mydb"
-}
